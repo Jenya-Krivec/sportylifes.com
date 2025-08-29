@@ -1,0 +1,30 @@
+<?php
+return [
+    'Bookmakers' => 'Bookmakers',
+    'title' => 'SPORTYLIFES - all bookmaker reviews from experts',
+    'description' => 'Read detailed reviews of new and time-tested bookmakers, as well as bookmakers with high odds.',
+    'keywords' => 'online casino, best betting sites, casino reviews, football betting, promo codes reviews, bookmaker reviews, freebetting, mobile apps reviews',
+    'Rate it' => 'Rate it',
+    'Promo code' => 'Promo code',
+    'Read more' => 'Read more',
+    'paragraph1' => 'The SPORTYLIFES team aims to provide the player community with the most detailed and objective reviews of bookmakers,
+                    helping them place bets with safe operators. We ensure that every verified brand featured in this review meets the required standards of reliability and quality.',
+    'paragraph2' => 'Our approach is based on four key stages: verifying the legality of bookmakers’ operations, testing their platforms, preparing and publishing in-depth reviews,
+                    and continuously monitoring them to promptly update their ranking and reputation.',
+    'paragraph3' => 'At the same time, we categorize bookmakers by different segments — for example, new companies or operators that accept cryptocurrency. This makes it easier to find the right option.',
+    'paragraph4' => 'The Role of Our Experts in Reviewing',
+    'paragraph5' => 'Our experts follow a strict procedure when evaluating each bookmaker. In the first three stages, they check the company’s reliability, assess the quality of the product,
+                    and create reviews according to our standard template. However, their work does not stop there: every 30 days,
+                    they log back into their accounts and re-evaluate each bookmaker to account for any changes in rules, platform, and performance, ensuring the accuracy of our ratings.',
+    'paragraph6' => 'We guarantee the impartiality of our reviewers',
+    'paragraph7' => 'We strictly prohibit any bookmaker from influencing our reviewers. Thanks to our standardized evaluation process, we can easily identify any biased opinions and promptly correct them.',
+    'paragraph8' => 'Furthermore, partnership relationships have no impact on the operation of our website. All content on SPORTYLIFES remains completely transparent and unbiased.',
+    'paragraph9' => 'Our experts keep their finger on the pulse of events',
+    'paragraph10' => 'Our experts closely monitor all changes in the market, from updates to regulations to the emergence of new bookmakers and trends in betting.
+                     We also continuously explore innovations in payment technologies and bookmaker operations.',
+    'paragraph11' => 'Since the industry is constantly evolving, it is essential to keep our reviews up to date. Our regular participation in professional conferences and access to insider industry reports are crucial for this.',
+    'paragraph12' => 'We resolve differences in bookmaker evaluations among our reviewers',
+    'paragraph13' => 'It is perfectly normal for people to have different opinions on the same issue; however, our reviews are based on objective data, which helps minimize discrepancies.
+                    Fact-checking specialists play a key role in this process.',
+    'paragraph14' => 'When a dispute arises, the fact-checking expert conducts a series of tests to ensure that personal preferences do not influence the content of the reviews.',
+    ];
