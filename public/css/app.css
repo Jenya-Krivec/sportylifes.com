@@ -54,7 +54,7 @@
 }
 /**Admin panel**/
 input[name="payments[]"]:checked + label,  input[name="currencies[]"]:checked + label, input[name="sports[]"]:checked + label, input[name="supports[]"]:checked + label{
-    background-color: #fbbf24 !important;
+    background-color: oklch(62.7% 0.194 149.214) !important;
     color: black;
 }
 .payment-label:hover, .currency-label:hover, .sport-label:hover, .support-label:hover{

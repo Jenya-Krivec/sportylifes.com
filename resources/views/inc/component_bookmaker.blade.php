@@ -1,4 +1,4 @@
-<div class="flex flex-col justify-between w-full p-2 mb-2 border-b-2 border-gray-200">
+<div class="flex flex-col justify-between w-full p-2 mb-2 border-b-2 border-gray-200 relative @if($authorized && !$bookmaker['active']) border-2 border-red-500 @else border-gray-400 @endif">
     @if($authorized)
     <a href="{{route('admin.editBookmaker', $bookmaker['key'])}}" title="edit" class="absolute z-20 bottom-0 right-0 text-xs bg-gray-300 rounded-br-md rounded-tl-md w-5 h-5 flex justify-center items-center">&#x270F;</a>
     @endif
