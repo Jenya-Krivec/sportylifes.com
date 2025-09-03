@@ -36,6 +36,14 @@ class DatabaseSeeder extends Seeder
                 BookmakerMelBetReviewSeeder::class,
                 BookmakerMelBetPromoCodesSeeder::class,
                 BookmakerMelBetMobileAppSeeder::class,
+                BookmakerBetwinnerPaymentSeeder::class,
+                BookmakerBetwinnerCurrencySeeder::class,
+                BookmakerBetwinnerSportSeeder::class,
+                BookmakerBetwinnerRestrictionSeeder::class,
+                BookmakerBetwinnerSupportSeeder::class,
+                BookmakerBetwinnerReviewSeeder::class,
+                BookmakerBetwinnerPromoCodesSeeder::class,
+                BookmakerBetwinnerMobileAppSeeder::class,
             ]
         );
     }
