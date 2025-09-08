@@ -65,6 +65,13 @@ class DatabaseSeeder extends Seeder
                 BookmakerPARIPESAReviewSeeder::class,
                 BookmakerPARIPESAPromoCodesSeeder::class,
                 BookmakerPARIPESAMobileAppSeeder::class,
+                Bookmaker4rabetCurrencySeeder::class,
+                Bookmaker4rabetPaymentSeeder::class,
+                Bookmaker4rabetSportSeeder::class,
+                Bookmaker4rabetSupportSeeder::class,
+                Bookmaker4rabetReviewSeeder::class,
+                Bookmaker4rabetPromoCodesSeeder::class,
+                Bookmaker4rabetMobileAppSeeder::class,
             ]
         );
     }
