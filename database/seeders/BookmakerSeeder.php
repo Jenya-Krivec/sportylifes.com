@@ -226,7 +226,7 @@ class BookmakerSeeder extends Seeder
         Bookmaker::query()->updateOrCreate(
             ['key' => '888starz'],
             ['key' => '888starz',
-             'name' => '888starz',
+             'name' => '888Starz',
              'url' => 'https://1wfzws.life/?p=ayxs',
              'logo' => '888starz.svg',
              'logo_color' => '#0f0710',
