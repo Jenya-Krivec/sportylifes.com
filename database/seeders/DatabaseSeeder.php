@@ -88,6 +88,14 @@ class DatabaseSeeder extends Seeder
                 BookmakerMEGAPARIReviewSeeder::class,
                 BookmakerMEGAPARIPromoCodesSeeder::class,
                 BookmakerMEGAPARIMobileAppSeeder::class,
+                Bookmaker22BETCurrencySeeder::class,
+                Bookmaker22BETPaymentSeeder::class,
+                Bookmaker22BETRestrictionSeeder::class,
+                Bookmaker22BETSportSeeder::class,
+                Bookmaker22BETSupportSeeder::class,
+                Bookmaker22BETReviewSeeder::class,
+                Bookmaker22BETPromoCodesSeeder::class,
+                Bookmaker22BETMobileAppSeeder::class,
             ]
         );
     }
