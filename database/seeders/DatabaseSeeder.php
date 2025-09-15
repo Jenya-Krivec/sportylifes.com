@@ -96,6 +96,13 @@ class DatabaseSeeder extends Seeder
                 Bookmaker22BETReviewSeeder::class,
                 Bookmaker22BETPromoCodesSeeder::class,
                 Bookmaker22BETMobileAppSeeder::class,
+                BookmakerLinebetCurrencySeeder::class,
+                BookmakerLinebetPaymentSeeder::class,
+                BookmakerLinebetSportSeeder::class,
+                BookmakerLinebetSupportSeeder::class,
+                BookmakerLinebetReviewSeeder::class,
+                BookmakerLinebetPromoCodesSeeder::class,
+                BookmakerLinebetMobileAppSeeder::class,
             ]
         );
     }
