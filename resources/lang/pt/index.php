@@ -1,13 +1,13 @@
 <?php
 return [
     'Bookmakers' => 'Casas de apostas',
-    'title' => 'SPORTYLIFES - todas as análises de casas de apostas feitas por especialistas',
+    'title' => 'SPORTBETREVIEWS - todas as análises de casas de apostas feitas por especialistas',
     'description' => 'Leia análises detalhadas de casas de apostas novas e consolidadas, bem como de casas de apostas com altas odds.',
     'keywords' => 'cassino online, melhores sites de apostas, avaliações de cassinos, apostas de futebol, análises de códigos promocionais, avaliações de casas de apostas, apostas grátis, avaliações de aplicativos móveis',
     'Rate it' => 'Avalie',
     'Promo code' => 'Promoção código',
     'Read more' => 'Ler mais',
-    'paragraph1' => 'A equipe da SPORTYLIFES tem como objetivo oferecer à comunidade de jogadores análises detalhadas e objetivas das casas de apostas, ajudando-os a apostar em operadores seguros.
+    'paragraph1' => 'A equipe da SPORTBETREVIEWS tem como objetivo oferecer à comunidade de jogadores análises detalhadas e objetivas das casas de apostas, ajudando-os a apostar em operadores seguros.
                     Garantimos que cada marca verificada apresentada nesta análise atenda aos padrões de confiabilidade e qualidade.',
     'paragraph2' => 'Nossa abordagem baseia-se em quatro etapas principais: verificar a legalidade das operações das casas de apostas, testar suas plataformas,
                     preparar e publicar análises detalhadas e realizar um monitoramento contínuo para atualizar prontamente sua classificação e reputação.',
@@ -18,7 +18,7 @@ return [
                     eles fazem login novamente em suas contas e reavaliam cada casa de apostas para considerar quaisquer alterações nas regras, na plataforma e no desempenho, garantindo a precisão de nossas classificações.',
     'paragraph6' => 'Garantimos a imparcialidade de nossos avaliadores',
     'paragraph7' => 'Proibimos rigorosamente que qualquer casa de apostas influencie nossos avaliadores. Graças ao nosso processo de avaliação padronizado, podemos identificar facilmente qualquer opinião tendenciosa e corrigi-la rapidamente.',
-    'paragraph8' => 'Além disso, os relacionamentos de parceria não têm impacto no funcionamento do nosso site. Todo o conteúdo no SPORTYLIFES permanece totalmente transparente e imparcial.',
+    'paragraph8' => 'Além disso, os relacionamentos de parceria não têm impacto no funcionamento do nosso site. Todo o conteúdo no SPORTBETREVIEWS permanece totalmente transparente e imparcial.',
     'paragraph9' => 'Nossos especialistas estão sempre atentos aos acontecimentos',
     'paragraph10' => 'Nossos especialistas acompanham de perto todas as mudanças no mercado, desde atualizações regulatórias até o surgimento de novas casas de apostas e tendências nas apostas.
                     Também estudamos continuamente inovações em tecnologias de pagamento e na operação das casas de apostas.',

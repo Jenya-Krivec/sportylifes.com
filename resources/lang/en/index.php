@@ -1,13 +1,13 @@
 <?php
 return [
     'Bookmakers' => 'Bookmakers',
-    'title' => 'SPORTYLIFES - all bookmaker reviews from experts',
+    'title' => 'SPORTBETREVIEWS - all bookmaker reviews from experts',
     'description' => 'Read detailed reviews of new and time-tested bookmakers, as well as bookmakers with high odds.',
     'keywords' => 'online casino, best betting sites, casino reviews, football betting, promo codes reviews, bookmaker reviews, freebetting, mobile apps reviews',
     'Rate it' => 'Rate it',
     'Promo code' => 'Promo code',
     'Read more' => 'Read more',
-    'paragraph1' => 'The SPORTYLIFES team aims to provide the player community with the most detailed and objective reviews of bookmakers,
+    'paragraph1' => 'The SPORTBETREVIEWS team aims to provide the player community with the most detailed and objective reviews of bookmakers,
                     helping them place bets with safe operators. We ensure that every verified brand featured in this review meets the required standards of reliability and quality.',
     'paragraph2' => 'Our approach is based on four key stages: verifying the legality of bookmakers’ operations, testing their platforms, preparing and publishing in-depth reviews,
                     and continuously monitoring them to promptly update their ranking and reputation.',
@@ -18,7 +18,7 @@ return [
                     they log back into their accounts and re-evaluate each bookmaker to account for any changes in rules, platform, and performance, ensuring the accuracy of our ratings.',
     'paragraph6' => 'We guarantee the impartiality of our reviewers',
     'paragraph7' => 'We strictly prohibit any bookmaker from influencing our reviewers. Thanks to our standardized evaluation process, we can easily identify any biased opinions and promptly correct them.',
-    'paragraph8' => 'Furthermore, partnership relationships have no impact on the operation of our website. All content on SPORTYLIFES remains completely transparent and unbiased.',
+    'paragraph8' => 'Furthermore, partnership relationships have no impact on the operation of our website. All content on SPORTBETREVIEWS remains completely transparent and unbiased.',
     'paragraph9' => 'Our experts keep their finger on the pulse of events',
     'paragraph10' => 'Our experts closely monitor all changes in the market, from updates to regulations to the emergence of new bookmakers and trends in betting.
                      We also continuously explore innovations in payment technologies and bookmaker operations.',

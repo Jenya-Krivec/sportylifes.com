@@ -19,7 +19,7 @@
             <meta property="og:url" content="{{\App\Helpers\Language::getUri($locale)}}"/>
         @endif
     @endforeach
-    <meta property="og:site_name" content="SPORTYLIFES"/>
+    <meta property="og:site_name" content="SPORTBETREVIEWS"/>
     <meta property="og:type" content="website">
     <meta property="og:description" content="@yield('description')"/>
     <meta property="og:title" content="@yield('title')"/>
@@ -42,18 +42,22 @@
 <header class="bg-green-600 fixed w-full z-20">
     <nav class="flex items-center py-3 w-full">
         <a href="{{route('index')}}" class="mx-2 sm:mx-10 flex justify-center items-center">
-            <img src="{{asset('img/logo/logo.png').'?v='.filemtime('img/logo/logo.png')}}" alt="SPORTYLIFES" class="w-14 logo" width="260" height="100">
-            <p class="text-sm text-white text-center font-bold stagger mt-2" aria-label="SPORTYLIFES">
+            <img src="{{asset('img/logo/logo.png').'?v='.filemtime('img/logo/logo.png')}}" alt="SPORTBETREVIEWS" class="w-14 logo" width="260" height="100">
+            <p class="text-sm text-white text-center font-bold stagger mt-2" aria-label="SPORTBETREVIEWS">
                 <span>S</span>
                 <span>P</span>
                 <span>O</span>
                 <span>R</span>
                 <span>T</span>
-                <span>Y</span>
-                <span>L</span>
-                <span>I</span>
-                <span>F</span>
+                <span>B</span>
                 <span>E</span>
+                <span>T</span>
+                <span>R</span>
+                <span>E</span>
+                <span>V</span>
+                <span>I</span>
+                <span>E</span>
+                <span>W</span>
                 <span>S</span>
             </p>
         </a>
@@ -97,7 +101,7 @@
     </div>
 </div>
 <footer class="bg-green-600 py-5">
-    <p class="text-sm text-white text-center font-bold">&copy; {{ date('Y') }} SPORTYLIFES</p>
+    <p class="text-sm text-white text-center font-bold">&copy; {{ date('Y') }} SPORTBETREVIEWS</p>
 </footer>
 </body>
 <script defer type="text/javascript" src="{{asset('js/preloader.js').'?v='.filemtime('js/preloader.js')}}"></script>

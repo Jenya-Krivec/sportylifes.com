@@ -1,13 +1,13 @@
 <?php
 return [
     'Bookmakers' => 'Bookmakers',
-    'title' => 'SPORTYLIFES - tous les avis sur les bookmakers par des experts',
+    'title' => 'SPORTBETREVIEWS - tous les avis sur les bookmakers par des experts',
     'description' => 'Lisez des critiques détaillées de nouveaux bookmakers et de bookmakers éprouvés, ainsi que de ceux offrant de hautes cotes.',
     'keywords' => 'casino en ligne, meilleurs sites de paris, avis sur les casinos, paris sur le football, avis sur les codes promo, avis sur les bookmakers, paris gratuits, avis sur les applications mobiles',
     'Rate it' => 'Évaluez-le',
     'Promo code' => 'Promo code',
     'Read more' => 'Lire plus',
-    'paragraph1' => 'L’équipe de SPORTYLIFES a pour objectif de fournir à la communauté de joueurs des évaluations détaillées et objectives des bookmakers, en les aidant à parier auprès d’opérateurs sûrs.
+    'paragraph1' => 'L’équipe de SPORTBETREVIEWS a pour objectif de fournir à la communauté de joueurs des évaluations détaillées et objectives des bookmakers, en les aidant à parier auprès d’opérateurs sûrs.
                     Nous veillons à ce que chaque marque vérifiée présentée dans cet avis réponde aux normes de fiabilité et de qualité.',
     'paragraph2' => 'Notre méthode repose sur quatre étapes essentielles : vérifier la légalité des activités des bookmakers, tester leurs plateformes,
                     rédiger et publier des analyses approfondies, et assurer un suivi permanent afin de mettre à jour rapidement leur classement et leur réputation.',
@@ -19,7 +19,7 @@ return [
                     de la plateforme et des performances, garantissant ainsi l’exactitude de nos classements.',
     'paragraph6' => 'Nous garantissons l’impartialité de nos évaluateurs',
     'paragraph7' => 'Nous interdisons strictement à tout bookmaker d’influencer nos évaluateurs. Grâce à notre processus d’évaluation standardisé, nous pouvons facilement détecter toute opinion biaisée et la corriger rapidement.',
-    'paragraph8' => 'De plus, les partenariats n’ont aucune influence sur le fonctionnement de notre site. Tout le contenu sur SPORTYLIFES reste entièrement transparent et impartial.',
+    'paragraph8' => 'De plus, les partenariats n’ont aucune influence sur le fonctionnement de notre site. Tout le contenu sur SPORTBETREVIEWS reste entièrement transparent et impartial.',
     'paragraph9' => 'Nos experts restent à l’écoute de l’actualité',
     'paragraph10' => 'Nos experts suivent de près toutes les évolutions du marché, des mises à jour réglementaires à l’apparition de nouveaux bookmakers et de nouvelles tendances dans les paris.
                     Nous étudions également en permanence les innovations dans les technologies de paiement et le fonctionnement des bookmakers.',
